@@ -1,0 +1,29 @@
+[
+    {
+        "family": "Lit3rata",
+        "format": "otf",
+        "version": "Mangled Literata 3",
+        "variants": [
+            "regular",
+            "italic",
+            "700",
+            "700italic"
+        ],
+        "lastModified": "2020-06-22",
+        "subsets": [
+            "cyrillic",
+            "greek",
+            "greek-ext",
+            "latin",
+            "latin-ext",
+            "vietnamese"
+        ],
+        "files": {
+            "700italic": "https://storage.sbg.cloud.ovh.net/v1/AUTH_2ac4bfee353948ec8ea7fd1710574097/koreader-pub/Lit3rata-BoldItalic.otf",
+            "regular": "https://storage.sbg.cloud.ovh.net/v1/AUTH_2ac4bfee353948ec8ea7fd1710574097/koreader-pub/Lit3rata-Regular.otf",
+            "italic": "https://storage.sbg.cloud.ovh.net/v1/AUTH_2ac4bfee353948ec8ea7fd1710574097/koreader-pub/Lit3rata-Italic.otf",
+            "700": "https://storage.sbg.cloud.ovh.net/v1/AUTH_2ac4bfee353948ec8ea7fd1710574097/koreader-pub/Lit3rata-Bold.otf"
+        },
+        "category": "serif"
+    }
+]
